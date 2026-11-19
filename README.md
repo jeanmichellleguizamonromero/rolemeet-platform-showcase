@@ -54,6 +54,29 @@ flowchart TD
     Admin <-->|Moderación y Transmisión| LiveKit
     BackendGateway <--> GoogleAPIs
 ```
+
+## 📸 Vitrina Visual de la Plataforma
+
+### 🗳️ Votación Ponderada en Tiempo Real
+![Votación en vivo](docs/07-live-voting.png)
+
+### 🖥️ Módulos de Operación, Control y Experiencia de Usuario
+
+| Agenda del Conductor | Dashboard de Operaciones |
+| :---: | :---: |
+| ![Agenda del Conductor](docs/01-agenda-conductor.png) | ![Dashboard de Operaciones](docs/02-operations-dashboard.png) |
+| **Gestión de orden del día y tiempos** | **Monitoreo operativo de la asamblea** |
+
+| Expediente Digital | Portal del Participante (Móvil / Web) |
+| :---: | :---: |
+| ![Expediente Digital](docs/03-expediente-digital.png) | ![Portal del Participante](docs/04-participant-app.png) |
+| **Trazabilidad documental y actas** | **Interfaz accesible para copropietarios** |
+
+| Equipo, Roles y Permisos | Votación y Transcripción en Vivo |
+| :---: | :---: |
+| ![Equipo y Roles](docs/05-equipo-y-roles.png) | ![Votación y Transcripción](docs/06-agenda-votacion-transcripcion.png) |
+| **Control de mesa directiva y moderadores** | **Registro automatizado de intervenciones** |
+
 🛡️ Módulos de Ingeniería Destacados
 
 1. Seguridad Criptográfica y Validez Legal
