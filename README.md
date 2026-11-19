@@ -58,24 +58,48 @@ flowchart TD
 ## 📸 Vitrina Visual de la Plataforma
 
 ### 🗳️ Votación Ponderada en Tiempo Real
-![Votación en vivo](docs/07-live-voting.png)
+![Votación en vivo](docs/07_%20Livevoting.png)
 
 ### 🖥️ Módulos de Operación, Control y Experiencia de Usuario
 
-| Agenda del Conductor | Dashboard de Operaciones |
-| :---: | :---: |
-| ![Agenda del Conductor](docs/01-agenda-conductor.png) | ![Dashboard de Operaciones](docs/02-operations-dashboard.png) |
-| **Gestión de orden del día y tiempos** | **Monitoreo operativo de la asamblea** |
-
-| Expediente Digital | Portal del Participante (Móvil / Web) |
-| :---: | :---: |
-| ![Expediente Digital](docs/03-expediente-digital.png) | ![Portal del Participante](docs/04-participant-app.png) |
-| **Trazabilidad documental y actas** | **Interfaz accesible para copropietarios** |
-
-| Equipo, Roles y Permisos | Votación y Transcripción en Vivo |
-| :---: | :---: |
-| ![Equipo y Roles](docs/05-equipo-y-roles.png) | ![Votación y Transcripción](docs/06-agenda-votacion-transcripcion.png) |
-| **Control de mesa directiva y moderadores** | **Registro automatizado de intervenciones** |
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>1. Agenda del Conductor</strong><br><br>
+      <img src="docs/01_%20Agenda%20Conductor.png" alt="Agenda del Conductor" width="100%" /><br>
+      <sub>Gestión de orden del día y tiempos</sub>
+    </td>
+    <td width="50%" align="center">
+      <strong>2. Dashboard de Operaciones</strong><br><br>
+      <img src="docs/02_%20Operationsdashboard.png" alt="Dashboard de Operaciones" width="100%" /><br>
+      <sub>Monitoreo operativo de la asamblea</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>3. Expediente Digital</strong><br><br>
+      <img src="docs/03_%20Expedientedigital.png" alt="Expediente Digital" width="100%" /><br>
+      <sub>Trazabilidad documental y actas</sub>
+    </td>
+    <td width="50%" align="center">
+      <strong>4. Portal del Participante (Móvil / Web)</strong><br><br>
+      <img src="docs/04_%20Participant-app.png" alt="Portal del Participante" width="100%" /><br>
+      <sub>Interfaz accesible para copropietarios</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>5. Equipo, Roles y Permisos</strong><br><br>
+      <img src="docs/05_%20Equipo%20y%20Roles.png" alt="Equipo y Roles" width="100%" /><br>
+      <sub>Control de mesa directiva y moderadores</sub>
+    </td>
+    <td width="50%" align="center">
+      <strong>6. Votación y Transcripción en Vivo</strong><br><br>
+      <img src="docs/06_%20AgendaconductorVotacionytranscripcionenvivo.png" alt="Votación y Transcripción" width="100%" /><br>
+      <sub>Registro automatizado de intervenciones</sub>
+    </td>
+  </tr>
+</table>
 
 🛡️ Módulos de Ingeniería Destacados
 
